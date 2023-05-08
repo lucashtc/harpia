@@ -22,8 +22,8 @@ Simple port scan made with elephants :elephants:
 ```bash
 $ git clone https//github.com/thiiagoms/harpia
 $ cd harpia
-harpia $ composer installl
-harpia $ chmod +x harpia
+$ composer installl
+$ chmod +x harpia
 ```
 ### Usage :hammer:
 
